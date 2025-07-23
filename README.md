@@ -9,7 +9,7 @@ The following features are implemented in the project:
 - The user can  speed up
 - The user can slow dow
 - The user can skip cars
-- The user can see how much money they have earned
+- The user can see their score
   
 
 ## Project Design:
@@ -24,5 +24,10 @@ Here's a walkthrough of implemented features:
 
 ![car-game](./cargamewalkthrough.gif)
 ## Notes and Comments
-The differents challenges i faced buiding the website were: making up differents directions button and  creating a nice background.
+The differents challenges i faced buiding the website were: 
+- making up differents directions button
+- creating a nice background.
+- adding different cars
+- adding a pause menu option
+
 
